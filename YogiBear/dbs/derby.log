@@ -1,7 +1,7 @@
-Tue Jan 16 10:05:42 CET 2024 : Apache Derby Hálózati kiszolgáló - 10.16.1.1 - (1901046) elindult és kész a kapcsolatok fogadására a(z) {3} 1527 portján 
+Tue Jan 16 15:12:38 CET 2024 : Apache Derby Hálózati kiszolgáló - 10.16.1.1 - (1901046) elindult és kész a kapcsolatok fogadására a(z) {3} 1527 portján 
 ----------------------------------------------------------------
-Tue Jan 16 10:05:42 CET 2024:
- Derby The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046) változat betöltése: a816c00e-018d-1184-f2db-000056e31e38 példány
+Tue Jan 16 15:12:38 CET 2024:
+ Derby The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046) változat betöltése: a816c00e-018d-129d-f311-000056e31e38 példány
 a(z) C:\Users\balka\OneDrive\Dokumentumok\3. szemeszter\progtech\3\YogiBear\dbs\highscores adatbázis-könyvtáron: jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
 
 java.vendor=Oracle Corporation
@@ -13,8 +13,8 @@ os.version=10.0
 derby.system.home=C:\Users\balka\OneDrive\Dokumentumok\3. szemeszter\progtech\3\YogiBear\dbs
 Az adatbázis-osztálybetöltő elindult - derby.database.classpath=''
 ----------------------------------------------------------------
-Tue Jan 16 13:21:18 CET 2024: Shutting down Derby engine
+Tue Jan 16 15:12:45 CET 2024: Shutting down Derby engine
 ----------------------------------------------------------------
-Tue Jan 16 13:21:18 CET 2024:
-a816c00e-018d-1184-f2db-000056e31e38 példány leállítása
+Tue Jan 16 15:12:45 CET 2024:
+a816c00e-018d-129d-f311-000056e31e38 példány leállítása
 ----------------------------------------------------------------
