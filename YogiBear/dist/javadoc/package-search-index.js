@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"gui"},{"l":"model"},{"l":"sql"},{"l":"util"},{"l":"yogibear"}];updateSearchResults();
