@@ -1,0 +1,6 @@
+Player 30 100 250 70 100
+Tree 200 200 100
+Tree 250 200 70
+Basket 600 600 70 80
+Ranger Left 400 400 100 50 100
+Ranger Left 300 220 150 50 100

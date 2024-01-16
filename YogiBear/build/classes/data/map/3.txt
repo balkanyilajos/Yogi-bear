@@ -1,0 +1,13 @@
+Player 0 0 10 100
+Tree 0 100 100
+Tree 500 0 200
+Tree 500 600 100
+Tree 100 400 100
+Tree 600 600 100
+Tree 300 100 100
+Tree 200 400 100
+Tree 100 150 100
+Basket 0 600 80
+Ranger Left 550 400 5 100
+Ranger Right 300 200 7 100
+Ranger Up 100 500 10 100

@@ -1,0 +1,15 @@
+Player 0 0 10 100
+Tree 642 137 103
+Tree 186 499 101
+Tree 101 256 107
+Tree 435 528 51
+Tree 118 123 63
+Tree 382 142 110
+Tree 669 693 100
+Ranger Up 72 592 8 91
+Ranger Down 208 681 9 133
+Ranger Left 240 420 6 30
+Ranger Right 582 546 10 128
+Basket 722 530 88
+Basket 520 161 69
+Basket 260 391 68
