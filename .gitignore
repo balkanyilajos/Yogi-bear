@@ -1,4 +1,13 @@
-YogiBear/build
+database/
+YogiBear/build/
+YogiBear/db-derby-10.16.1.1-bin/
+YogiBear/bin/
+YogiBear/docs/
+YogiBear/test/
+YogiBear/dbs/
+YogiBear/lib/
+YogiBear/nbproject/
+YogiBear/test/
 
 # Compiled source #
 ###################
